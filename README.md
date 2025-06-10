@@ -12,4 +12,4 @@ In this project, I am interested in exploring multimodal (scATAC + scRNA + SNPs)
   - [GWAS Summary](https://www.covid19hg.org/results/r7/)
 
 
-Project description of [csQTL](https://sishirsubedi.github.io/projects/4_project/).
+Project description of [caQTL](https://sishirsubedi.github.io/projects/4_project/).
